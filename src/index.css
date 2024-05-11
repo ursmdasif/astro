@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --leva-sizes-rootWidth: 340px;
+    background-color: pink;
+    /* background:  url('https://plus.unsplash.com/premium_photo-1680077713837-b9a1fb681eae?q=80&w=1280&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); */
+    background:  url('https://img.freepik.com/free-photo/minimal-amazing-interior-design_23-2150534561.jpg?t=st=1715333464~exp=1715337064~hmac=9092b8342f9d0dc14b45c8c874e3a0f511f088ca546f9f0da0b9fcd8ef758d5e&w=1080');
+  }
+  
+  #root {
+    width: 100vw;
+    height: 100vh;
+  }
